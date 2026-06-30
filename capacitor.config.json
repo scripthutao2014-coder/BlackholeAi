@@ -1,0 +1,6 @@
+{
+  "appId": "com.blackholeai.app",
+  "appName": "BlackholeAi X Gemini",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
